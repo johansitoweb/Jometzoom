@@ -1,2 +1,1 @@
-# Software-videoconferencia-futurista
-Proyecto de software
+# Jometzoom, es una herramienta de videoconferencia
